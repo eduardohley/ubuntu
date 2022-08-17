@@ -29,7 +29,7 @@ EOF
 
 lazygit_url="https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Linux_x86_64.tar.gz"
 neovim_url="https://github.com/neovim/neovim/releases/download/v0.7.2/nvim.appimage"
-bitwarden_url="https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.0/Bitwarden-2022.8.0-x86_64.AppImage"
+bitwarden_url="https://github.com/bitwarden/clients/releases/download/desktop-v2022.8.1/Bitwarden-2022.8.1-x86_64.AppImage"
 
 lazygit_tar="lazygit.tar.gz"
 lazygit_app="lazygit"
